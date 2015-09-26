@@ -17,6 +17,7 @@ Kennis in:
 * Javascript  
 * Processing
 * Markdown
+
 Contactinformatie
 -----------------
 * Naam : Lettens
