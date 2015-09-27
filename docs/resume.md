@@ -17,14 +17,25 @@ Werkervaring
 Geen werkervaring
 Kennis van webtechnologieën
 --------------------------
-Softwarekennis
--------------
 Kennis in:  
 * HTML
 * CSS3  
 * Javascript  
 * Processing
 * Markdown
+Softwarekennis
+-------------
+| Software | Kennis |
+|------|------|
+| Adobe Photoshop| Goed|
+| Adobe Illustrator| Goed|
+| Adobe After Effects| Goed|
+| Adobe Premiere Pro| Mattig|
+| Adobe Indesign| Slecht - Mattig|
+| Microsoft Excel| Mattig|
+| Microsoft Word| Goed|
+| Microsoft Powerpoint| Goed|
+|PHPStorm| Mattig|
 
 Contactinformatie
 -----------------
