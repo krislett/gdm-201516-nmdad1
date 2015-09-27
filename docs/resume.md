@@ -23,6 +23,7 @@ Kennis in:
 * Javascript  
 * Processing
 * Markdown
+
 Softwarekennis
 -------------
 | Software | Kennis |
