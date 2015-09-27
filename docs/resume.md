@@ -12,6 +12,8 @@ Vervolgens ben ik naar het [Sint-jozef Instituut](http://www.sint-jozef-ternat.b
 Na de middelbare school had ik veel moeite om een studierichting te vinden. Na enige tijd twijfelen heb ik mij ingeschreven in industriële wetenschappen op [universiteit gent](www.ugent.be). Na enige tijd had ik door dat ik mij niet gelukkig voelde in deze richting, omdat ik niets interessant genoeg vond om later mijn beroep van te maken. Hierdoor ben ik veranderd naar [Grafische en digitale media](https://www.arteveldehogeschool.be/bachelor-de-grafische-en-digitale-media) in Mariakerke, waar ik momenteel in mijn tweede jaar multimediaproductie zit.
 Portfolio
 ---------
+![Vimeo1](VimeoCycle.jpg)
+
 Werkervaring
 -----------
 Geen werkervaring
